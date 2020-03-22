@@ -1,0 +1,1 @@
+<?php header( 'Location: /color_game.html' ) ;  ?>
